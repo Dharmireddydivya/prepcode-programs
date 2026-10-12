@@ -1,0 +1,5 @@
+print("number of apples:")
+apples=int(input())
+print("number of kids:")
+kids=int(input())
+print("no of apples per kids:",apples/kids)
