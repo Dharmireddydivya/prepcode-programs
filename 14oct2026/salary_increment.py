@@ -1,0 +1,5 @@
+salary=int(input("enter the salary"))
+increment=int(input("enter th increment"))
+increment_amount=((increment/100)*salary)
+print("increment_amount")
+print("total salary is:",salary+increment_amount)
